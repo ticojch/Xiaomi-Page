@@ -140,6 +140,8 @@ nav ul li a:hover{
     margin-top: 20px;
     border-radius: 20px;
     background-color: #ebebeb;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .product{
@@ -156,65 +158,47 @@ nav ul li a:hover{
 #PocoX3-product{
     background-image: url("https://i.imgur.com/dYTJeZA.png");
     background-size: 60%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #Mi9tPro-product{
     background-image: url("https://i.imgur.com/JLqSqzx.png");
     background-size: 60%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #Mi10Lite-product{
     background-image: url("https://i.imgur.com/c5vUpQ4.png");
     background-size: 60%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #MiInEar-product{
     background-image: url("https://i.imgur.com/lBbROgC.png");
     background-size: 90%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #MiTrueWireless-product{
     background-color: #1d1d1d;
     background-image: url("https://i.imgur.com/bmPpk8J.png");
     background-size: 80%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #RedmiAirDots-product{
     background-image: url("https://i.imgur.com/sS5UlOx.png");
     background-size: 80%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #MiNotebook14-product{
     background-image: url("https://i01.appmifile.com/webfile/globalimg/products/pc/mi-notebook-14/specs-header.png");
     background-size: 80%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #MiNotebook14Horizon-product{
     background-image: url("https://i01.appmifile.com/webfile/globalimg/products/pc/mi-notebook-14-horizon/specs-01.png");
     background-size: 90%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #RedmiNotebookG-product{
     background-image: url("https://i.imgur.com/2D9QSga.png");
     background-size: 90%;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 
@@ -224,6 +208,21 @@ nav ul li a:hover{
     color: #131313;
     left: calc(50% - 62.5px);
     
+}
+
+#MiBand5-product{
+    background-image: url("https://i.imgur.com/qQbVxZN.png");
+    background-size: 50%;
+}
+
+#MiWatchLite-product{
+    background-image: url("https://i.imgur.com/eIOv88O.png");
+    background-size: 45%;
+}
+
+#MiWatchColor-product{
+    background-image: url("https://i.imgur.com/zOUqWal.png");
+    background-size: 50%;
 }
 
 .hidden{
