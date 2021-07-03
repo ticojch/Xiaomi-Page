@@ -1,0 +1,9 @@
+.products-box{
+    grid-template-columns: 300px 300px;
+
+}
+
+#second{
+    grid-column: 2;
+    justify-self: center;
+}

@@ -1,0 +1,17 @@
+.products-box{
+    grid-template-columns: 300px 300px 300px;
+
+}
+.product{
+    grid-column: 1;
+}
+
+#second{
+    grid-column: 2;
+    justify-self: center;
+}
+
+#third{
+    grid-column: 3;
+    justify-self: center;
+}
